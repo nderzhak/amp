@@ -23,4 +23,3 @@ services:
       io.amp.role: "infrastructure"
       amp.service.stabilize.delay: "5s"
       amp.service.stabilize.timeout: "30s"
-
